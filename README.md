@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science Engineer with experience in the production of desktop and full stack web applications using different technologies and programming languages. I also have experience in the development of video games with Unity and in the administration of networks and systems based on both linux and windows server.<br>
+I am a Computer Science Engineer with experience developing desktop and full-stack web applications across a wide range of technologies and programming languages. My background also includes video game development with Unity, as well as network and systems administration on both Linux and Windows Server environments. I have worked on projects involving software architecture, backend development, infrastructure management, and cross-platform solutions.<br>
 
 
 ## 🌐 Socials:
